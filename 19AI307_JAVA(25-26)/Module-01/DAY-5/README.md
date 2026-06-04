@@ -32,7 +32,7 @@ To write a Java program to **identify the longest word from a given string using
 /*
 Program to find the longest word in a string
 Developed by: Guttha Keerthana
-RegisterNumber: 212223240114
+RegisterNumber: 212223240045
 */
 
 import java.util.Scanner;
